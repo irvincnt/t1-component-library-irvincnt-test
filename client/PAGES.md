@@ -192,6 +192,10 @@ Cada registro incluye:
 
 ![Exports Page](./docs/screenshots/exports.png)
 
+![Exports Page CSV](./docs/screenshots/exports-csv.png)
+
+![Exports Page JSON](./docs/screenshots/exports-json.png)
+
 ---
 
 ## 🔐 Login
