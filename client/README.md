@@ -196,6 +196,8 @@ El proyecto tiene configurado un umbral mínimo de cobertura del **80%** para:
 - Lines (líneas)
 - Statements (declaraciones)
 
+![Coverage](./docs/screenshots/coverage.png)
+
 ### Estructura de Tests
 
 ```
