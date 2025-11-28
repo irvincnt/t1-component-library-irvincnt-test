@@ -33,7 +33,7 @@ const generateToken = (user: IUser): string => {
   return jwt.sign(
     { id: user._id, email: user.email },
     jwtSecret,
-    { expiresIn: jwtExpiresIn }
+    { expiresIn: jwtExpiresIn } as jwt.SignOptions
   );
 };
 
