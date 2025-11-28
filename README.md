@@ -270,6 +270,7 @@ t1-component-libray-irvincnt-test/
 
 - [📘 README del Cliente](./client/README.md) - Stack, estructura y testing del frontend
 - [📗 README del Servidor](./server/README.md) - API documentation y endpoints
+- [📕 Documentación de vistas](./client/PAGES.md) - Documentación de vistas
 
 ---
 
@@ -306,10 +307,8 @@ ISC
 
 ---
 
-## 👥 Contribuir
+## 👨🏽‍💻 Creado por: Irvin Giovanni Contreras García.
 
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -am 'Agrega nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
+- 🔗 www.irvincnt.com
+- 📞 +52 5612695199
+- 📮 irvincnt93@gmail.com
